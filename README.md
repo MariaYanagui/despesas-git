@@ -1,4 +1,4 @@
-# despesas-git
-Tabela de despesas de casas
+TABELA DE DESPESAS 
+Tabela de despesas pessoais 
 Luz, internet e operadora 
 usei HTML e CSS
